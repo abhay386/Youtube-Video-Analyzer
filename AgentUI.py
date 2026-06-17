@@ -6,7 +6,7 @@ from Youtube_analyzer import youtube_agent
 
 
 st.set_page_config(
-    page_title="  YouTube Video Analyzer",
+    page_title="YouTube Video Analyzer",
     layout="wide",
     initial_sidebar_state="collapsed",
 )
